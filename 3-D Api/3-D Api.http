@@ -1,0 +1,11 @@
+@3-D Api_HostAddress = 
+@_3_D_Api_HostAddress = http://localhost:5090
+
+GET {{_3_D_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{3-D Api_HostAddress}}/weatherforecast
+
+###
