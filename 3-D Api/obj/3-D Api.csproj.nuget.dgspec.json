@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob\\source\\repos\\3-D Api\\3-D Api\\3-D Api.csproj": {}
+    "C:\\Users\\jacob\\OneDrive\\Dokumenter\\GitHub\\h3-projektv2-24q2h3-gruppe2\\3D-Print-Arkiv\\3-D Api\\3-D Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob\\source\\repos\\3-D Api\\3-D Api\\3-D Api.csproj": {
+    "C:\\Users\\jacob\\OneDrive\\Dokumenter\\GitHub\\h3-projektv2-24q2h3-gruppe2\\3D-Print-Arkiv\\3-D Api\\3-D Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\3-D Api\\3-D Api\\3-D Api.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Dokumenter\\GitHub\\h3-projektv2-24q2h3-gruppe2\\3D-Print-Arkiv\\3-D Api\\3-D Api.csproj",
         "projectName": "3-D Api",
-        "projectPath": "C:\\Users\\jacob\\source\\repos\\3-D Api\\3-D Api\\3-D Api.csproj",
+        "projectPath": "C:\\Users\\jacob\\OneDrive\\Dokumenter\\GitHub\\h3-projektv2-24q2h3-gruppe2\\3D-Print-Arkiv\\3-D Api\\3-D Api.csproj",
         "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\source\\repos\\3-D Api\\3-D Api\\obj\\",
+        "outputPath": "C:\\Users\\jacob\\OneDrive\\Dokumenter\\GitHub\\h3-projektv2-24q2h3-gruppe2\\3D-Print-Arkiv\\3-D Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Aspire.Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
