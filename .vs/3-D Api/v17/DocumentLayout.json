@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jacob\\OneDrive\\Dokumenter\\GitHub\\h3-projektv2-24q2h3-gruppe2\\3D-Print-Arkiv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFFCE508-F4DD-4B1F-8CD1-AE8DFCF82C9F}|3-D Api\\3-D Api.csproj|c:\\users\\jacob\\onedrive\\dokumenter\\github\\h3-projektv2-24q2h3-gruppe2\\3d-print-arkiv\\3-d api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFCE508-F4DD-4B1F-8CD1-AE8DFCF82C9F}|3-D Api\\3-D Api.csproj|solutionrelative:3-d api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFFCE508-F4DD-4B1F-8CD1-AE8DFCF82C9F}|3-D Api\\3-D Api.csproj|c:\\users\\jacob\\onedrive\\dokumenter\\github\\h3-projektv2-24q2h3-gruppe2\\3d-print-arkiv\\3-d api\\controllers\\3-dcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFCE508-F4DD-4B1F-8CD1-AE8DFCF82C9F}|3-D Api\\3-D Api.csproj|solutionrelative:3-d api\\controllers\\3-dcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFFCE508-F4DD-4B1F-8CD1-AE8DFCF82C9F}|3-D Api\\3-D Api.csproj|c:\\users\\jacob\\onedrive\\dokumenter\\github\\h3-projektv2-24q2h3-gruppe2\\3d-print-arkiv\\3-d api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BFFCE508-F4DD-4B1F-8CD1-AE8DFCF82C9F}|3-D Api\\3-D Api.csproj|solutionrelative:3-d api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFCE508-F4DD-4B1F-8CD1-AE8DFCF82C9F}|3-D Api\\3-D Api.csproj|c:\\users\\jacob\\onedrive\\dokumenter\\github\\h3-projektv2-24q2h3-gruppe2\\3d-print-arkiv\\3-d api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFCE508-F4DD-4B1F-8CD1-AE8DFCF82C9F}|3-D Api\\3-D Api.csproj|solutionrelative:3-d api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFCE508-F4DD-4B1F-8CD1-AE8DFCF82C9F}|3-D Api\\3-D Api.csproj|c:\\users\\jacob\\onedrive\\dokumenter\\github\\h3-projektv2-24q2h3-gruppe2\\3d-print-arkiv\\3-d api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFCE508-F4DD-4B1F-8CD1-AE8DFCF82C9F}|3-D Api\\3-D Api.csproj|solutionrelative:3-d api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3-DController.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\OneDrive\\Dokumenter\\GitHub\\h3-projektv2-24q2h3-gruppe2\\3D-Print-Arkiv\\3-D Api\\Controllers\\3-DController.cs",
+              "RelativeDocumentMoniker": "3-D Api\\Controllers\\3-DController.cs",
+              "ToolTip": "C:\\Users\\jacob\\OneDrive\\Dokumenter\\GitHub\\h3-projektv2-24q2h3-gruppe2\\3D-Print-Arkiv\\3-D Api\\Controllers\\3-DController.cs",
+              "RelativeToolTip": "3-D Api\\Controllers\\3-DController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:33:02.117Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\OneDrive\\Dokumenter\\GitHub\\h3-projektv2-24q2h3-gruppe2\\3D-Print-Arkiv\\3-D Api\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "3-D Api\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\jacob\\OneDrive\\Dokumenter\\GitHub\\h3-projektv2-24q2h3-gruppe2\\3D-Print-Arkiv\\3-D Api\\Data\\DataContext.cs",
+              "RelativeToolTip": "3-D Api\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:09:17.129Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,20 +66,20 @@
               "RelativeDocumentMoniker": "3-D Api\\appsettings.json",
               "ToolTip": "C:\\Users\\jacob\\OneDrive\\Dokumenter\\GitHub\\h3-projektv2-24q2h3-gruppe2\\3D-Print-Arkiv\\3-D Api\\appsettings.json",
               "RelativeToolTip": "3-D Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-18T05:59:24.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jacob\\OneDrive\\Dokumenter\\GitHub\\h3-projektv2-24q2h3-gruppe2\\3D-Print-Arkiv\\3-D Api\\Program.cs",
               "RelativeDocumentMoniker": "3-D Api\\Program.cs",
               "ToolTip": "C:\\Users\\jacob\\OneDrive\\Dokumenter\\GitHub\\h3-projektv2-24q2h3-gruppe2\\3D-Print-Arkiv\\3-D Api\\Program.cs",
               "RelativeToolTip": "3-D Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T05:55:48.656Z",
               "EditorCaption": ""

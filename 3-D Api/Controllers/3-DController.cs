@@ -22,8 +22,17 @@ namespace _3_D_Api.Controllers
                 password = "Bent"
             }
         };
+            [HttpPost]
+            public async Task<ActionResult<List<Bruger>>> AddUser (Bruger bruger)
+            {
 
-            return Ok(brugere);
+                _context.Brugere.Add(bruger);
+
+                await _context.SaveChangesAsync();
+
+
+                return Ok(await GetAllBrugere());
+            }
         }
     }
 }
